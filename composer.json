@@ -1,0 +1,16 @@
+{
+    "name": "AkechiSatori/HEBypass",
+    "description": "Bypass he.net javascript verify",
+    "homepage": "https://github.com/AkechiSatori/HEBypass",
+    "type": "library",
+    "require":
+    {
+        "komeiji-satori/curl": "dev-master"
+    },
+    "autoload":
+    {
+        "files": [
+            "src/Core.php"
+        ]
+    }
+}
