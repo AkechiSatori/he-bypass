@@ -1,7 +1,7 @@
 {
-    "name": "AkechiSatori/HEBypass",
+    "name": "AkechiSatori/he-bypass",
     "description": "Bypass he.net javascript verify",
-    "homepage": "https://github.com/AkechiSatori/HEBypass",
+    "homepage": "https://github.com/AkechiSatori/he-bypass",
     "type": "library",
     "require":
     {
